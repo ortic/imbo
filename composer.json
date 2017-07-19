@@ -1,5 +1,5 @@
 {
-  "name": "imbo/imbo",
+  "name": "ortic/imbo",
   "type": "library",
   "description": "RESTful image server that handles image storage/transformations and metadata",
   "keywords": [ "image storage", "image transformation", "image metadata" ],
@@ -22,7 +22,6 @@
     "symfony/http-foundation": "~2.7.3",
     "symfony/console": "~2.7.3",
     "ramsey/uuid": "~3.0.0",
-    "mongodb/mongodb": "~1.0.0",
     "guzzlehttp/psr7": "~1.3.0"
   },
   "require-dev": {
